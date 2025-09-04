@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Issues OBS Studio Open</title>
+  <link href="https://api.github.com/repos/obsproject/obs-studio/issues?state=open" />
+  <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+  <id>https://api.github.com/repos/obsproject/obs-studio/issues?state=open</id>
+
+    <entry>
+      <title>OBS 32.0.0 Beta 1 All Display captures are black macOS</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12585" />
+      <id>https://github.com/obsproject/obs-studio/issues/12585</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: OBS 32.0.0 Beta 1 All Display captures are black macOS</summary>
+    </entry>
+
+    <entry>
+      <title>Remove Qt 5 module checks</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12583" />
+      <id>https://github.com/obsproject/obs-studio/pull/12583</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: Remove Qt 5 module checks</summary>
+    </entry>
+
+    <entry>
+      <title>frontend/api: Fix repeated preview en-/disables not working</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12580" />
+      <id>https://github.com/obsproject/obs-studio/pull/12580</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: frontend/api: Fix repeated preview en-/disables not working</summary>
+    </entry>
+
+    <entry>
+      <title>VLC Video Source Surround Audio Channels are Swapped</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12579" />
+      <id>https://github.com/obsproject/obs-studio/issues/12579</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: VLC Video Source Surround Audio Channels are Swapped</summary>
+    </entry>
+
+    <entry>
+      <title>libobs: Deprecate v1 of obs_load_all_modules and obs_find_modules</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12578" />
+      <id>https://github.com/obsproject/obs-studio/pull/12578</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: libobs: Deprecate v1 of obs_load_all_modules and obs_find_modules</summary>
+    </entry>
+
+    <entry>
+      <title>frontend: Natural sorting for files, profile and scene names</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12577" />
+      <id>https://github.com/obsproject/obs-studio/pull/12577</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: frontend: Natural sorting for files, profile and scene names</summary>
+    </entry>
+
+    <entry>
+      <title>OBS 32 w/ Streamdeck - Segfault on mac</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12576" />
+      <id>https://github.com/obsproject/obs-studio/issues/12576</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: OBS 32 w/ Streamdeck - Segfault on mac</summary>
+    </entry>
+
+    <entry>
+      <title>frontend: Minor Idian fixes/cleanup</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12572" />
+      <id>https://github.com/obsproject/obs-studio/pull/12572</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: frontend: Minor Idian fixes/cleanup</summary>
+    </entry>
+
+    <entry>
+      <title>Microphone output no longer works with Virtual Cable</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12571" />
+      <id>https://github.com/obsproject/obs-studio/issues/12571</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: Microphone output no longer works with Virtual Cable</summary>
+    </entry>
+
+    <entry>
+      <title>OBSBOT Meet 2 Camera having issues under flatpak but not system package</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12570" />
+      <id>https://github.com/obsproject/obs-studio/issues/12570</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: OBSBOT Meet 2 Camera having issues under flatpak but not system package</summary>
+    </entry>
+
+    <entry>
+      <title>YouTube streaming to channel as manager on other account</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12569" />
+      <id>https://github.com/obsproject/obs-studio/issues/12569</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: YouTube streaming to channel as manager on other account</summary>
+    </entry>
+
+    <entry>
+      <title>OBS Meta Quest Software Issue</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12568" />
+      <id>https://github.com/obsproject/obs-studio/issues/12568</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: OBS Meta Quest Software Issue</summary>
+    </entry>
+
+    <entry>
+      <title>frontend: Enable Qt strict mode</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12567" />
+      <id>https://github.com/obsproject/obs-studio/pull/12567</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: frontend: Enable Qt strict mode</summary>
+    </entry>
+
+    <entry>
+      <title>Remove Linux soversion workarounds</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12566" />
+      <id>https://github.com/obsproject/obs-studio/pull/12566</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: Remove Linux soversion workarounds</summary>
+    </entry>
+
+    <entry>
+      <title>frontend/data: Remove unused context bar string</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12563" />
+      <id>https://github.com/obsproject/obs-studio/pull/12563</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: frontend/data: Remove unused context bar string</summary>
+    </entry>
+
+    <entry>
+      <title>CI: Use rebuilt CEF on Linux and macOS</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12562" />
+      <id>https://github.com/obsproject/obs-studio/pull/12562</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: CI: Use rebuilt CEF on Linux and macOS</summary>
+    </entry>
+
+    <entry>
+      <title>Mouse Cursor Size</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12557" />
+      <id>https://github.com/obsproject/obs-studio/issues/12557</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: Mouse Cursor Size</summary>
+    </entry>
+
+    <entry>
+      <title>libobs: Re-include groups in obs_enum_scenes</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12556" />
+      <id>https://github.com/obsproject/obs-studio/pull/12556</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: libobs: Re-include groups in obs_enum_scenes</summary>
+    </entry>
+
+    <entry>
+      <title>frontend: detect plugins from subfolders in custom path</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12548" />
+      <id>https://github.com/obsproject/obs-studio/pull/12548</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: frontend: detect plugins from subfolders in custom path</summary>
+    </entry>
+
+    <entry>
+      <title>Unhandled exception: 80000003</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12544" />
+      <id>https://github.com/obsproject/obs-studio/issues/12544</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: Unhandled exception: 80000003</summary>
+    </entry>
+
+    <entry>
+      <title>libobs: Add obs_weak_canvas_references_canvas</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12543" />
+      <id>https://github.com/obsproject/obs-studio/pull/12543</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: libobs: Add obs_weak_canvas_references_canvas</summary>
+    </entry>
+
+    <entry>
+      <title>OBS sources missing from Flatpak sources extension</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12541" />
+      <id>https://github.com/obsproject/obs-studio/issues/12541</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: OBS sources missing from Flatpak sources extension</summary>
+    </entry>
+
+    <entry>
+      <title>libobs: Deprecate v1 of obs_properties_add_button</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12533" />
+      <id>https://github.com/obsproject/obs-studio/pull/12533</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: libobs: Deprecate v1 of obs_properties_add_button</summary>
+    </entry>
+
+    <entry>
+      <title>Last frame of layered window continues to be visible after window is empty</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12531" />
+      <id>https://github.com/obsproject/obs-studio/issues/12531</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: Last frame of layered window continues to be visible after window is empty</summary>
+    </entry>
+
+    <entry>
+      <title>docs: Clarify some aspects of OBS_PROPERTY_BUTTON</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12528" />
+      <id>https://github.com/obsproject/obs-studio/pull/12528</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: docs: Clarify some aspects of OBS_PROPERTY_BUTTON</summary>
+    </entry>
+
+    <entry>
+      <title>rtmp-services: add Odysee as a service</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12525" />
+      <id>https://github.com/obsproject/obs-studio/pull/12525</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: rtmp-services: add Odysee as a service</summary>
+    </entry>
+
+    <entry>
+      <title>obs-ffmpeg: AMD Support on Linux with AMF</title>
+      <link href="https://github.com/obsproject/obs-studio/pull/12522" />
+      <id>https://github.com/obsproject/obs-studio/pull/12522</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: obs-ffmpeg: AMD Support on Linux with AMF</summary>
+    </entry>
+
+    <entry>
+      <title>[Linux] Multiple USB sources black screen on startup</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12521" />
+      <id>https://github.com/obsproject/obs-studio/issues/12521</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: [Linux] Multiple USB sources black screen on startup</summary>
+    </entry>
+
+    <entry>
+      <title>NVenc b-ref-mode always reports 0 in logfile</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12520" />
+      <id>https://github.com/obsproject/obs-studio/issues/12520</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: NVenc b-ref-mode always reports 0 in logfile</summary>
+    </entry>
+
+    <entry>
+      <title>Video capture formats XRGB/MJPEG are available on Windows but not on macOS, Why?</title>
+      <link href="https://github.com/obsproject/obs-studio/issues/12519" />
+      <id>https://github.com/obsproject/obs-studio/issues/12519</id>
+      <updated>Thu, 04 Sep 2025 03:25:23 GMT</updated>
+      <summary>Nova issue: Video capture formats XRGB/MJPEG are available on Windows but not on macOS, Why?</summary>
+    </entry>
+
+</feed>
